@@ -1,0 +1,5 @@
+**/*/node_modules/
+**/*/build
+standalone/increment
+.vscode
+idle-exec/cmake_build
